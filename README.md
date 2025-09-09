@@ -16,7 +16,7 @@
 ---
 ### My Github stats:
 ![Minhas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=larissagondim&show_icons=true&theme=radical)
-[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=larissagondim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=larissagondim&layout=compact&theme=radical)]
 
 
 
