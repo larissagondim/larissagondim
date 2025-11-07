@@ -8,15 +8,15 @@
 
 ### 👩‍🎓 About Me:
 - I'm currently studying Computer Science at **UFPB** (Federal University Of Paraíba)
-- I will mostly use ```.py```,``` .cpp```, ```.jsx```
-- I’m currently learning web development, competitive programming & data science
-- Fun fact: 日本語、ちょっと話す 	(ᵔ◡ᵔ)
+- I will mostly use ```.c```,``` .cpp```, ```.tsx```, ```.ipynb```, ```.py```
+- I’m currently interested in web development, competitive programming, machin learning & data science
 
 
 ---
 ### My Github stats:
 ![Minhas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=larissagondim&show_icons=true&theme=radical)
 [![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=larissagondim&layout=compact&theme=radical)]
+
 
 
 
