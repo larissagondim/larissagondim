@@ -27,6 +27,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissagondim&show_icons=true&theme=radical&cache_seconds=7200)
+![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissagondim&show_icons=true&theme=radical&cache_seconds=7200)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larissagondim&layout=compact&theme=radical&cache_seconds=7200)
