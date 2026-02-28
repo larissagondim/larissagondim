@@ -4,15 +4,19 @@
   </a>
 </div>
 
-### Estudante de Ciência da Computação na Universidade Federal da Paraíba (UFPB). 
+### Computer Science Student at the Federal University of Paraíba (UFPB)
 
 ---
-**Sobre mim:**
 
-  Sou estudante de Ciência da Computação na **UFPB** e atualmente trabalho com Aprendizagem de Máquina. Divido majoritariamente meus estudos entre a exploração profunda do universo dos dados e da Inteligência Artificial e a criação de aplicações web utilizando tecnologias como TypeScript e React. Gosto muito de aplicar Python na construção e treinamento de modelos de Machine Learning, buscando sempre entender como a tecnologia pode resolver problemas complexos do mundo real. Também reservo parte do meu tempo para a solução de problemas de Programação Competitiva.
+**About me:**
+
+I am a Computer Science student at **UFPB** and currently work with Machine Learning. I mainly divide my studies between deeply exploring the world of data and Artificial Intelligence and building web applications using technologies such as TypeScript and React.  
+
+I really enjoy applying Python to build and train Machine Learning models, always aiming to understand how technology can solve complex real-world problems. I also dedicate part of my time to solving Competitive Programming problems.
 
 ---
-### Tecnologias que utilizo:
+
+### Technologies I Use:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,react,python,tensorflow,pytorch,pandas,git,linux&perline=11" alt="Larissa's Tech Stack" />
@@ -20,10 +24,10 @@
 
 ---
 
-### Minhas Contribuições:
+### My Contributions:
 
 <div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissagondim&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissagondim&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larissagondim&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=larissagondim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -34,7 +38,7 @@
 
 ---
 
-### Onde me encontrar:
+### Where to Find Me:
 
 <div>
   <a href="mailto:lari090607@gmail.com" target="_blank">
@@ -49,4 +53,3 @@
 </div>
 
 ---
-
