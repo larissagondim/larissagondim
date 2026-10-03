@@ -1,60 +1,27 @@
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8A2BE2&vCenter=true&width=500&lines=hi+there,+i'm+larissa!" alt="typing svg" />
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=BF91F3&vCenter=true&width=480&lines=hi,+i'm+larissa;developer;researcher" alt="typing svg" />
 
-### computer science student at the federal university of paraíba (ufpb)
+undergrad cs student at **ufpb**. i build interfaces with react and next.js, and research natural language processing, mostly curious about how machines understand the way we write.
 
----
+off the screen i'm usually drawing (studio ghibli is my forever reference), watching movies or playing old nintendo games. on it, switching between zorin os and cachyos.
 
-**about me:**
-
-i am a computer science undergraduate student at **ufpb**, passionate about the intersection of **artificial intelligence** and **software development**. i split my focus between diving deep into data and building robust full-stack applications.
-
-- **currently working on:** real-world ai solutions & personal projects;
-- **stack & focus:** building web applications with **react, next.js, node.js, and java 21**, while leveraging python for ai/ml.
-- **programming problems:** i dedicate part of my time to solving algorithmic challenges using c, c++, and python.
-- **environment:** proud linux enthusiast (zorin os / ubuntu).
-- **fun fact:** when i'm not coding or debugging, you can probably find me drawing (i love the studio ghibli art style), watching movies or playing classic nintendo games!
-
----
----
-
-### technologies & tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,react,nextjs,nodejs,tensorflow,pytorch,pandas,git,linux&perline=13" alt="larissa's tech stack" />
-</div>
-
----
-
-### github stats
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissagondim&theme=tokyonight" alt="github stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larissagondim&theme=tokyonight" alt="top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larissagondim&theme=tokyonight&hide_border=true" alt="github streak" />
-</div>
 <br>
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larissagondim&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="activity graph" />
-</div>
 
----
+**currently**
+- developing interfaces
+- researching nlp
+- practicing algorithms in c++ for fun
 
-### contact me!
+<br>
 
-<div align="left">
-  <a href="mailto:lari090607@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/larissa-vilasboas-gondim-332320374/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/larizvbg/?__d=dist" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,python,pytorch,java,cpp,git,linux&theme=dark" alt="stack" />
 
----
+<br><br>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=larissagondim&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=bf91f3" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissagondim&layout=compact&theme=tokyonight&hide_border=true&title_color=bf91f3" alt="languages" />
+
+<br>
+
+[![email](https://img.shields.io/badge/email-1a1b27?style=flat-square&logo=gmail&logoColor=bf91f3)](mailto:gondimvilasboaslarissa@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-1a1b27?style=flat-square&logo=linkedin&logoColor=bf91f3)](https://www.linkedin.com/in/larissa-vilasboas-gondim-332320374/)
+[![instagram](https://img.shields.io/badge/instagram-1a1b27?style=flat-square&logo=instagram&logoColor=bf91f3)](https://www.instagram.com/larizvbg/)
