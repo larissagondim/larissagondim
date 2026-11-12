@@ -1,34 +1,35 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=BF91F3&vCenter=true&width=480&lines=hi,+i'm+larissa;developer;researcher" alt="typing svg" />
-
-[![email](https://img.shields.io/badge/email-1a1b27?style=flat-square&logo=gmail&logoColor=bf91f3)](mailto:gondimvilasboaslarissa@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-1a1b27?style=flat-square&logo=linkedin&logoColor=bf91f3)](https://www.linkedin.com/in/larissa-vilasboas-gondim-332320374/)
-[![instagram](https://img.shields.io/badge/instagram-1a1b27?style=flat-square&logo=instagram&logoColor=bf91f3)](https://www.instagram.com/larizvbg/)
-
-undergrad cs student at **ufpb**. i build interfaces with react and next.js, and research natural language processing, mostly curious about how machines understand the way we write.
-
-off the screen i'm usually drawing (studio ghibli is my forever reference), watching movies or playing old nintendo games. on it, switching between zorin os and cachyos.
-
-<br>
-
-**currently**
-- developing interfaces
-- researching nlp
-- practicing algorithms in c++ for fun
-
-<br>
 <div align="center">
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=larissagondim&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=bf91f3" alt="GitHub stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BF91F3&center=true&vCenter=true&width=480&lines=larissa;developer;researcher" alt="typing svg" />
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissagondim&layout=compact&theme=tokyonight&hide_border=true&title_color=bf91f3" alt="Top languages" />
-
-  <br>
-
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,python,pytorch,java,cpp,git,linux&theme=dark" alt="Tech stack" />
+<a href="mailto:gondimvilasboaslarissa@gmail.com"><img src="https://img.shields.io/badge/email-1a1b27?style=flat-square&logo=gmail&logoColor=bf91f3" /></a>
+<a href="https://www.linkedin.com/in/larissa-vilasboas-gondim-332320374/"><img src="https://img.shields.io/badge/linkedin-1a1b27?style=flat-square&logo=linkedin&logoColor=bf91f3" /></a>
+<a href="https://www.instagram.com/larizvbg/"><img src="https://img.shields.io/badge/instagram-1a1b27?style=flat-square&logo=instagram&logoColor=bf91f3" /></a>
 
 </div>
 
+<br>
+
+**what i do**  
+front-end with react and next.js · nlp research · algorithms in c++
+
+**stack**  
+typescript · react · next.js · node.js · tailwind · python · pytorch · java · c++
+
+**tools**  
+git · linux (zorin os, cachyos)
+
+**studying**  
+computer science at ufpb
 
 <br>
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,python,pytorch,java,cpp,git,linux&theme=dark&perline=11" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=larissagondim&theme=tokyonight&hide_border=true&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&background=1a1b27" alt="streak" />
+
+</div>
